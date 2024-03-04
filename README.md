@@ -1,7 +1,7 @@
  
 ### Olá, me chamo Vinicius!
 
-## Sou estudante de Ciência da Computação e de desenvolvimento web
+## Sou estudante de Análise e Desenvolvimento de Sistemas e de desenvolvimento web
 - 🧐 Sempre de olho no mundo da tecnologia.
 - 👨‍💻 Estou sempre em busca de novos desafios e evolução
 - 🤯 Curiosidades sobre mim: Torcedor fanático pelo o Ceará SC e sempre gosto de passar meu tempo jogando algo.
